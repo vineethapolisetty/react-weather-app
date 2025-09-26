@@ -17,6 +17,7 @@ Simple weather search using Open‑Meteo APIs.
    npm run dev
    ```
 3. Open the printed local URL in your browser.
+4. I utilized the http://localhost:5173/
 
 *** This project is a React app scaffolded with Vite: ***
 
